@@ -27,7 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/huythanh0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="huythanh0x" height="30" width="40" /></a>
+<a href="https://fb.com/huythanh0x" target="blank">
+<img text-align="center" src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/92012711_648901239242667_8712733951875088384_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=WQrfyVGoHHUAX8rgkhD&_nc_ht=scontent.fsgn2-5.fna&tp=14&oh=8fbb0d31bd47ebd4531bae8e4af72d5d&oe=60B7E7F4" alt="huythanh0x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
