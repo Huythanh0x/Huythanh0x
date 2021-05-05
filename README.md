@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/huythanh0x" target="blank">
-<img text-align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" alt="huythanh0x"/></a>
+<img text-align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" alt="huythanh0x" width="40px" height="40px"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
