@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **other developer who are interested in Mobile App**
 
-- 🤝 I’m looking for some one who can create content for my website **https://github.com/Huythanh0x/complete-web-from-dr-angela**
+- 🤝 I’m looking for some one who can create content for my website **batdaulaptrinh.com**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Huythanh0x](https://github.com/Huythanh0x)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **huythanh0x@gmail.com**
 
-- 📄 Know about my experiences [I am still a Student](I am still a Student)
+- 📄 Know about my experiences I am still a student
 
 - ⚡ Fun fact **I like to learn everything**
 
