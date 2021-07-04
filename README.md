@@ -1,8 +1,10 @@
+
+
 <h1 align="center"> I'm HuyThanh0x</h1>
 <h3 align="center">I am a student in Computer Science major from VietNam.I like to learn mobile development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huythanh0x&label=Profile%20views&color=0e75b6&style=flat" alt="huythanh0x" /> </p>
-
+<https://s71.mkklcdnv6tempv2.com/mangakakalot/z2/zu917722/chapter_150/1.jpg'>
 
 - 🔭 I’m currently studying in [UIT](https://en.uit.edu.vn/)
 
