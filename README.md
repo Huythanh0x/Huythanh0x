@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently studying in [UIT](https://en.uit.edu.vn/)
 
-- 🌱 I’m currently learning **Mobile app development and Unity game 2D**
+- 🌱 I’m currently learning **Flutter for Mobile Development**
 
-- 👯 I’m looking to collaborate with **other developer who are interested in Mobile App and Game 2D**
+- 👯 I’m looking to collaborate with **other developer who are interested in Mobile App and Game 2D that was made by Libgdx**
 
 - 🤝 I’m looking for some one who can create content for my website **batdaulaptrinh.com**
 
@@ -20,11 +20,11 @@
 
 - 💬 Ask me about **Android and how to learn English**
 
-- 📫 How to reach me **huythanh0x@gmail.com**
+- 📫 How to reach me <a href = "mailto: admin@batdaulaptrinh.com">Send Email</a> 
 
-- 📄 Know about my experiences I am still a student so I don't have much
+- 📄 Know about my experiences: I am still a student so I don't have much
 
-- ⚡ Fun fact **I still didn't know what is my hobbies in the field of IT. Thus I learn everything from Web,Mobile,Game,...**
+- ⚡ Fun fact **I still didn't know what is my hobbies in the field of IT. Thus I learn everything from Web,Mobile,Game to Design,Video Editor...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
