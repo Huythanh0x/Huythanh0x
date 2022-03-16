@@ -27,10 +27,18 @@
 - ⚡ Fun fact **I still didn't know what is my hobbies in the field of IT. Thus I learn everything from Web,Mobile,Game to Design,Video Editor...**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/huythanh0x" target="blank">
-<img text-align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" alt="huythanh0x" width="40px" height="40px"/></a>
-</p>
+
+ <div align="left">
+  <a href="https://fb.com/huythanh0x" target="blank">
+    <img text-align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" alt="huythanh0x" width="40px" height="40px"/>    
+  </a>
+  <a href="https://www.linkedin.com/in/huythanh0x/" target="blank">
+    <img text-align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-48-189774.png" alt="huythanh0x" width="40px" height="40px"/>    
+  </a>
+    <a href="https://www.linkedin.com/in/huythanh0x/" target="blank">
+    <img text-align="center" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="huythanh0x" width="40px" height="40px"/>    
+  </a>
+<div> 
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Languages and Tools:</h3>
