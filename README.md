@@ -7,7 +7,7 @@
 
 - 👨🏽‍🎓 I’m currently studying in [UIT](https://en.uit.edu.vn/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Huythanh0x](https://github.com/Huythanh0x)
+- 👨‍💻 All of my projects are available at [https://github.com/Huythanh0x](https://github.com/Huythanh0x) or [https://github.com/blogbatdaulaptrinh](https://github.com/blogbatdaulaptrinh)
 
 - 📝 I regularly write articles on [batdaulaptrinh.com](batdaulaptrinh.com)
 
