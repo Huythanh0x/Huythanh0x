@@ -9,7 +9,7 @@
 </li>
 <li><p>👨‍💻 All of my projects are available at <a href="https://github.com/Huythanh0x">https://github.com/Huythanh0x</a></p>
 </li>
-<li><p>📝 I regularly write articles on <a href="#">this blog</a></p>
+<li><p>📝 I regularly write articles on <a href="https://huythanh0x.github.io/">this blog</a></p>
 </li>
 <li><p>📄 I have a lot experience in creating android app, extension and automating stuffs</p>
 </li>
