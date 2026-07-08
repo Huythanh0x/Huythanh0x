@@ -28,7 +28,7 @@
 <tr>
 <td align="center"><img src="https://devicons.io/devicons/icons/android.svg" width="40" height="40"/><br/><sub><b>Android</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/compose-multiplatform.svg" width="40" height="40"/><br/><sub><b>CMP</b></sub></td>
-<td align="center"><img src="https://devicons.io/devicons/icons/spring.svg" width="40" height="40"/><br/><sub><b>Spring Boot</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/><br/><sub><b>Spring Boot</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/nestjs.svg" width="40" height="40"/><br/><sub><b>NestJS</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/graphql.svg" width="40" height="40"/><br/><sub><b>GraphQL</b></sub></td>
 </tr>
