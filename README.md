@@ -27,30 +27,30 @@
 <table align="center">
 <tr>
 <td align="center"><img src="https://devicons.io/devicons/icons/android.svg" width="40" height="40"/><br/><sub><b>Android</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/compose-multiplatform.svg" width="40" height="40"/><br/><sub><b>CMP</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/spring.svg" width="40" height="40"/><br/><sub><b>Spring Boot</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/nestjs.svg" width="40" height="40"/><br/><sub><b>NestJS</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/graphql.svg" width="40" height="40"/><br/><sub><b>GraphQL</b></sub></td>
-<td align="center"><img src="https://devicons.io/devicons/icons/compose-multiplatform.svg" width="40" height="40"/><br/><sub><b>Compose Multiplatform</b></sub></td>
 </tr>
 </table>
 
 <h3 align="left">Databases:</h3>
 <table align="center">
 <tr>
+<td align="center"><img src="https://devicons.io/devicons/icons/sqlite-icon.svg" width="40" height="40"/><br/><sub><b>SQLite</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/postgresql.svg" width="40" height="40"/><br/><sub><b>PostgreSQL</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/redis-icon.svg" width="40" height="40"/><br/><sub><b>Redis</b></sub></td>
-<td align="center"><img src="https://devicons.io/devicons/icons/sqlite-icon.svg" width="40" height="40"/><br/><sub><b>SQLite</b></sub></td>
 </tr>
 </table>
 
 <h3 align="left">Infrastructure & DevOps:</h3>
 <table align="center">
 <tr>
+<td align="center"><img src="https://devicons.io/devicons/icons/firebase-icon.svg" width="40" height="40"/><br/><sub><b>Firebase</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/docker-icon.svg" width="40" height="40"/><br/><sub><b>Docker</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/github-actions.svg" width="40" height="40"/><br/><sub><b>GitHub Actions</b></sub></td>
 <td align="center"><img src="https://devicons.io/devicons/icons/cloudflare-icon.svg" width="40" height="40"/><br/><sub><b>Cloudflare</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" width="40" height="40"/><br/><sub><b>Proxmox</b></sub></td>
-<td align="center"><img src="https://devicons.io/devicons/icons/firebase-icon.svg" width="40" height="40"/><br/><sub><b>Firebase</b></sub></td>
 </tr>
 </table>
 
@@ -64,8 +64,6 @@
 <td align="center"><img src="https://devicons.io/devicons/icons/intellij-idea.svg" width="40" height="40"/><br/><sub><b>IntelliJ</b></sub></td>
 </tr>
 </table>
-
-<hr>
 
 <h3 align="left">Language Stats</h3>
 <p align="center">
