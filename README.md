@@ -1,44 +1,69 @@
 <h1 align="center">Hi 👋, I'm Thanh</h1>
-<h3 align="center">Android Developer with expertise in app development, automation, reverse engineering, and security.</h3>
+<h3 align="center">Android & Backend Developer — building mobile apps and the systems behind them</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huythanh0x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <ul>
-<li>📱 I specialize in Android app development, building custom views, integrating new SDKs, and consuming REST APIs.</li>
-<li>🔐 Passionate about reverse engineering and security, with experience in Smali and reverse network analysis to improve app security.</li>
-<li>🚀 Continuously exploring new SDKs, automation tools, and reverse engineering techniques to stay updated and enhance my skill set.</li>
-<li>🔧 Interested in self-hosting and backend development, focusing on building secure and scalable systems.</li>
-<li>📝 Check out my latest posts on <a href="https://blog.thanh0x.com/">thanh0x's blog</a>.</li>
-<li>💻 Explore all my projects on <a href="https://github.com/Huythanh0x">GitHub</a> and <a href="https://gitea.thanh0x.com/Huythanh0x">my self-hosted Gitea</a>.</li>
+<li>I've spent the last 2+ years building native Android apps — Kotlin/Java, Clean Architecture, custom UI, SDK integrations — for a platform with 2M+ users. Right now I'm exploring <b>Kotlin Multiplatform</b> to share business logic between Android and Web.</li>
+<li>Day to day I work with <b>NestJS + GraphQL</b>. On the side, I designed and built a <b>Spring Boot</b> microservices backend from scratch — API, crawler, auth, caching — for a personal project.</li>
+<li>I like owning things end to end. <a href="https://coupons.thanh0x.com">This coupon platform</a> is live and I run it solo: crawler, API, and frontend.</li>
+<li>My background includes reverse engineering and app security (Smali, network analysis), which still shapes how I think about hardening the apps I build.</li>
+<li>I self-host a fair amount of my own infrastructure, including <a href="https://gitea.thanh0x.com/Huythanh0x">my own Gitea</a> and CI/CD pipelines.</li>
+<li>Longer term, I'm working toward being a strong solo developer across mobile and backend — comfortable owning a product from the database up to the screen it renders on.</li>
+<li>I write occasionally at <a href="https://blog.thanh0x.com/">thanh0x's blog</a>.</li>
+<li>All my projects live on <a href="https://github.com/Huythanh0x">GitHub</a> and <a href="https://gitea.thanh0x.com/Huythanh0x">my self-hosted Gitea</a>.</li>
+<li>Currently open to Android / Backend roles — reach out via <a href="https://blog.thanh0x.com/">my blog</a></li>
 </ul>
 
-<h3 align="left">Languages:</h3> <!-- Fixed 'Langues' to 'Languages' -->
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</div>
+<h3 align="left">Languages:</h3>
+<table align="center">
+<tr>
+<td align="center"><img src="https://devicons.io/devicons/icons/kotlin-icon.svg" width="40" height="40"/><br/><sub><b>Kotlin</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/java.svg" width="40" height="40"/><br/><sub><b>Java</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/typescript-icon.svg" width="40" height="40"/><br/><sub><b>TypeScript</b></sub></td>
+</tr>
+</table>
 
-<h3 align="left">SDKs/Frameworks:</h3> <!-- Pluralized 'SDK' -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/>
-</div>
+<h3 align="left">Frameworks & Platforms:</h3>
+<table align="center">
+<tr>
+<td align="center"><img src="https://devicons.io/devicons/icons/android.svg" width="40" height="40"/><br/><sub><b>Android</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/spring.svg" width="40" height="40"/><br/><sub><b>Spring Boot</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/nestjs.svg" width="40" height="40"/><br/><sub><b>NestJS</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/graphql.svg" width="40" height="40"/><br/><sub><b>GraphQL</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/compose-multiplatform.svg" width="40" height="40"/><br/><sub><b>Compose Multiplatform</b></sub></td>
+</tr>
+</table>
+
+<h3 align="left">Data & Infra:</h3>
+<table align="center">
+<tr>
+<td align="center"><img src="https://devicons.io/devicons/icons/postgresql.svg" width="40" height="40"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/redis-icon.svg" width="40" height="40"/><br/><sub><b>Redis</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/sqlite-icon.svg" width="40" height="40"/><br/><sub><b>SQLite</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/docker-icon.svg" width="40" height="40"/><br/><sub><b>Docker</b></sub></td>
+</tr>
+</table>
 
 <h3 align="left">Tools:</h3>
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  &nbsp;|&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
-  &nbsp;|&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  &nbsp;|&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  &nbsp;|&nbsp;
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-</div>
-<hr>
+<table align="center">
+<tr>
+<td align="center"><img src="https://devicons.io/devicons/icons/git-icon.svg" width="40" height="40"/><br/><sub><b>Git</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/figma.svg" width="40" height="40"/><br/><sub><b>Figma</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/cursor-icon.svg" width="40" height="40"/><br/><sub><b>Cursor</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/claude-icon.svg" width="40" height="40"/><br/><sub><b>Claude</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/intellij-idea.svg" width="40" height="40"/><br/><sub><b>IntelliJ</b></sub></td>
+</tr>
+</table>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huythanh0x&show_icons=true&locale=en&layout=compact&hide=html,css&langs_count=4" alt="Top Languages" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huythanh0x&" alt="GitHub Streak Stats" /></p>
+<h3 align="left">Cloud & Self-Hosting:</h3>
+<table align="center">
+<tr>
+<td align="center"><img src="https://devicons.io/devicons/icons/cloudflare-icon.svg" width="40" height="40"/><br/><sub><b>Cloudflare</b></sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-original.svg" width="40" height="40"/><br/><sub><b>Proxmox</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/firebase-icon.svg" width="40" height="40"/><br/><sub><b>Firebase</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/supabase-icon.svg" width="40" height="40"/><br/><sub><b>Supabase</b></sub></td>
+<td align="center"><img src="https://devicons.io/devicons/icons/github-actions.svg" width="40" height="40"/><br/><sub><b>GitHub Actions</b></sub></td>
+</tr>
+</table>
+<hr>
