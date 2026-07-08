@@ -11,7 +11,7 @@
 <li>I self-host a fair amount of my own infrastructure — see it live at <a href="https://home.thanh0x.com/">my homelab dashboard</a>.</li>
 <li>Longer term, I'm working toward being a strong solo developer across mobile and backend — comfortable owning a product from the database up to the screen it renders on.</li>
 <li>I write occasionally at <a href="https://blog.thanh0x.com/">thanh0x's blog</a>.</li>
-<li>Currently open to Android / Backend roles — reach out via <a href="https://www.linkedin.com/in/huythanh0x">LinkedIn</a> or <a href="mailto:your-email@example.com">Email</a>.</li>
+<li>Currently open to Android / Backend roles — reach out via <a href="https://www.linkedin.com/in/huythanh0x">LinkedIn</a> or <a href="mailto:huythanh0x@gmail.com">Email</a>.</li>
 </ul>
 
 <h3 align="left">Languages:</h3>
