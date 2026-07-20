@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huythanh0x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <ul>
-<li>I've spent over 2 years building native Android apps — Kotlin/Java, Clean Architecture, custom UI, SDK integrations — for a platform with 2M+ users. Right now I'm exploring <b>Kotlin Multiplatform</b> to share business logic between Android and Web.</li>
+<li>I've spent over 2 years building native Android apps — Kotlin/Java, Clean Architecture, custom UI, SDK integrations — for a platform with 2M+ users. Right now I'm using <b>Kotlin Multiplatform</b> to share business logic between Android and Web on a personal project.</li>
 <li>Day to day I work with <b>NestJS + GraphQL</b>. On the side, I designed and built a <b>Spring Boot</b> microservices backend from scratch — API, crawler, auth, caching — for a personal project.</li>
-<li>Currently working on <a href="https://coupons.thanh0x.com">Udemy Coupon</a> — a solo project I've wanted to build since university.</li>
+<li>Currently building a course-deal verification & discovery platform — a solo project I've wanted to tackle since university. It started as a native Android app and has grown into a small distributed system: a Spring Boot backend, an ingestion/crawler pipeline, and a Kotlin Multiplatform client.</li>
 <li>I'm also interested in reverse engineering and app security (Smali, network analysis), which still shapes how I think about hardening the apps I build.</li>
 <li>I self-host a fair amount of my own infrastructure — see it live at <a href="https://home.thanh0x.com/">my homelab dashboard</a>.</li>
 <li>Longer term, I'm working toward being a strong solo developer across mobile and backend — comfortable owning a product from the database up to the screen it renders on.</li>
